@@ -1,0 +1,21 @@
+-(BOOL)isGIF
+return TRUE
+-(BOOL)GIF
+return TRUE
+-(BOOL)isGIF
+return TRUE
+-(void)playGIF
+-(void)sendGIF
+-(void)setGIF:(id)
+-(void)setGIF:(BOOL)
+return TRUE
+-(void)setGIF:(BOOL)
+return TRUE
+-(BOOL)isMessageVideoAndNotGIF:(id)
+return False
+-(BOOL)isMessageTypeImageOrGIF:(id)
+return True
+
+This Code used to enable gif
+
+Requires Flex Tweak 
